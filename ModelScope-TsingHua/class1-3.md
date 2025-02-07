@@ -19,11 +19,11 @@
 
 ---
 
-openai提出的scaling law 是什么？规模法则。
+**openai提出的scaling law 是什么？规模法则。**
 
-模型风洞是什么？有点像自动调参？
+**模型风洞是什么？有点像自动调参？**
 
-团队认为是知识密度<=⇒⇒制程，类似于摩尔定律。 
+团队认为是知识密度等同于制程，类似于摩尔定律。 
 
 ---
 
@@ -35,7 +35,7 @@ openai提出的scaling law 是什么？规模法则。
 
   下载完成后会看到`output`文件夹中出现了`package`里面为安装包
 
-  ![image.png](C:\Users\Name\Nutstore\1\Typora\Pic\image.png)
+  ![image.png](.\pictures\image.png)
 
   1. 从对应包中下载到本地再上传
 
