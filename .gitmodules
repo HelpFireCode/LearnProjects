@@ -1,0 +1,3 @@
+[submodule "itllm"]
+	path = itllm
+	url = https://github.com/HelpFireCode/InternLLM.git
