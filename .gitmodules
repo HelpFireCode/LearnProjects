@@ -1,3 +1,6 @@
 [submodule "itllm"]
 	path = itllm
 	url = https://github.com/HelpFireCode/InternLLM.git
+[submodule "intern"]
+	path = intern
+	url = https://github.com/HelpFireCode/InternLLM.git
